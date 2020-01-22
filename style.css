@@ -1,0 +1,14 @@
+html {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  }
+
+.scene, canvas{
+  background-color: black;
+  background: cover;
+}
+.myself{
+  height: 70%;
+
+}
